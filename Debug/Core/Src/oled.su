@@ -1,0 +1,4 @@
+oled.c:9:6:oled_init	8	static
+oled.c:15:6:oled_fillWhite	8	static
+oled.c:22:6:oled_display	24	static
+oled.c:110:6:oled_buttonDisplay	24	static

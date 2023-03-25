@@ -1,0 +1,8 @@
+vector.c:14:6:vector_init	16	static
+vector.c:21:5:vector_total	16	static
+vector.c:26:13:vector_resize	24	static
+vector.c:35:6:vector_add	16	static
+vector.c:43:6:vector_set	24	static
+vector.c:50:7:vector_get	16	static
+vector.c:58:6:vector_delete	24	static
+vector.c:83:6:vector_free	16	static
